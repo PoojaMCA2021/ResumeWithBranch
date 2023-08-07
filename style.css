@@ -3,7 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+body{
+    background-color: burlywood;
+}
 .container{
     background-color:ghostwhite;
     max-width: 800px;
